@@ -1,6 +1,6 @@
 <p><img  alt="Version"  src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" /></p>
 
-### 🏠 [Clique aqui e confira a aplicação Meu encurtador de Links !](https://moveit-rk9ld8flt-nagelricardo.vercel.app/)
+### 🏠 [Clique aqui e confira a aplicação Meu encurtador de Links !](https://encurtador-links-nu.vercel.app/)
 
 > 🚀 Meu encurtador de Links é uma aplicação para encurtar links longos e gerir seus links.
 
@@ -23,11 +23,11 @@
 <h2 id="demonstracao">🖱 Demonstração</h2>
 
 <p>
-  <span><img src="./public/home.PNG" /></span>
-  <span><img src="./public/modal.PNG" /></span>
-  <span><img src="./public/meuslinks.PNG" /></span>
-  <span><img src="./public/error.PNG" /></span>
-  <span><img src="./public/responsive.PNG" /></span>
+  <span><img src="./public/home.png" /></span>
+  <span><img src="./public/modal.png" /></span>
+  <span><img src="./public/meuslinks.png" /></span>
+  <span><img src="./public/error.png" /></span>
+  <span><img src="./public/responsive.png" /></span>
 </p>
 
 <h2 id="comousar">⚒️ Como usar</h2>
