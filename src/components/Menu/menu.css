@@ -14,6 +14,11 @@
     margin-right: 14px;
     display: flex;
     align-items: center;
+    transition: transform 0.7s;
+}
+
+.social:hover{
+    transform: scale(1.25);
 }
 
 .menu-item{
@@ -22,4 +27,9 @@
     padding: 12px 24px;
     border-radius: 8px;
     margin-right: 14px;
+    transition: transform 0.7s;
+}
+
+.menu-item:hover{
+    transform: scale(1.15);
 }
